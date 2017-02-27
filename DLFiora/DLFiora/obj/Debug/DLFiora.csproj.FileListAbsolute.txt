@@ -1,0 +1,5 @@
+c:\users\edcarlos\documents\visual studio 2015\Projects\DLFiora\DLFiora\bin\Debug\DLFiora.exe.config
+c:\users\edcarlos\documents\visual studio 2015\Projects\DLFiora\DLFiora\obj\Debug\DLFiora.csprojResolveAssemblyReference.cache
+c:\users\edcarlos\documents\visual studio 2015\Projects\DLFiora\DLFiora\obj\Debug\DLFiora.Common.BRSelector.Menu.resources
+c:\users\edcarlos\documents\visual studio 2015\Projects\DLFiora\DLFiora\obj\Debug\DLFiora.csproj.GenerateResource.Cache
+c:\users\edcarlos\documents\visual studio 2015\Projects\DLFiora\DLFiora\obj\Debug\DLFiora.Common.Evade.Menu.resources
