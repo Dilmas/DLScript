@@ -1,0 +1,12 @@
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the thesh\Certainly not the thesh\bin\Debug\Certainly not the thesh.exe.config
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the thesh\Certainly not the thesh\obj\Debug\Certainly not the thesh.csprojResolveAssemblyReference.cache
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the thesh\Certainly not the thesh\bin\Debug\Certainly not the thesh.exe
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the thesh\Certainly not the thesh\bin\Debug\Certainly not the thesh.pdb
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the thesh\Certainly not the thesh\bin\Debug\EloBuddy.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the thesh\Certainly not the thesh\bin\Debug\EloBuddy.SDK.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the thesh\Certainly not the thesh\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the thesh\Certainly not the thesh\bin\Debug\SharpDX.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the thesh\Certainly not the thesh\bin\Debug\EloBuddy.Sandbox.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the thesh\Certainly not the thesh\bin\Debug\Newtonsoft.Json.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the thesh\Certainly not the thesh\obj\Debug\Certainly not the thesh.exe
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the thesh\Certainly not the thesh\obj\Debug\Certainly not the thesh.pdb

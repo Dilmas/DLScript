@@ -1,0 +1,12 @@
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the Janna\Certainly not the Janna\bin\Debug\Certainly not the Janna.exe.config
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the Janna\Certainly not the Janna\bin\Debug\Certainly not the Janna.exe
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the Janna\Certainly not the Janna\bin\Debug\Certainly not the Janna.pdb
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the Janna\Certainly not the Janna\bin\Debug\EloBuddy.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the Janna\Certainly not the Janna\bin\Debug\EloBuddy.SDK.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the Janna\Certainly not the Janna\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the Janna\Certainly not the Janna\bin\Debug\SharpDX.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the Janna\Certainly not the Janna\bin\Debug\EloBuddy.Sandbox.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the Janna\Certainly not the Janna\bin\Debug\Newtonsoft.Json.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the Janna\Certainly not the Janna\obj\Debug\Certainly not the Janna.csprojResolveAssemblyReference.cache
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the Janna\Certainly not the Janna\obj\Debug\Certainly not the Janna.exe
+c:\users\edcarlos\documents\visual studio 2013\Projects\Certainly not the Janna\Certainly not the Janna\obj\Debug\Certainly not the Janna.pdb

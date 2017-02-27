@@ -1,0 +1,12 @@
+c:\users\edcarlos\documents\visual studio 2013\Projects\LeLoxy\LeLoxy\bin\Debug\LeLoxy.exe.config
+c:\users\edcarlos\documents\visual studio 2013\Projects\LeLoxy\LeLoxy\bin\Debug\LeLoxy.exe
+c:\users\edcarlos\documents\visual studio 2013\Projects\LeLoxy\LeLoxy\bin\Debug\LeLoxy.pdb
+c:\users\edcarlos\documents\visual studio 2013\Projects\LeLoxy\LeLoxy\bin\Debug\EloBuddy.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\LeLoxy\LeLoxy\bin\Debug\EloBuddy.SDK.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\LeLoxy\LeLoxy\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\LeLoxy\LeLoxy\bin\Debug\SharpDX.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\LeLoxy\LeLoxy\bin\Debug\EloBuddy.Sandbox.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\LeLoxy\LeLoxy\bin\Debug\Newtonsoft.Json.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\LeLoxy\LeLoxy\obj\Debug\LeLoxy.csprojResolveAssemblyReference.cache
+c:\users\edcarlos\documents\visual studio 2013\Projects\LeLoxy\LeLoxy\obj\Debug\LeLoxy.exe
+c:\users\edcarlos\documents\visual studio 2013\Projects\LeLoxy\LeLoxy\obj\Debug\LeLoxy.pdb
