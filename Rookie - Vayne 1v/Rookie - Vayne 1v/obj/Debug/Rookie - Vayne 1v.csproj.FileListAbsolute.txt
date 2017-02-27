@@ -1,0 +1,13 @@
+c:\users\edcarlos\documents\visual studio 2013\Projects\Rookie - Vayne 1v\Rookie - Vayne 1v\bin\Debug\Rookie - Vayne 1v.exe.config
+c:\users\edcarlos\documents\visual studio 2013\Projects\Rookie - Vayne 1v\Rookie - Vayne 1v\obj\Debug\Rookie - Vayne 1v.csprojResolveAssemblyReference.cache
+c:\users\edcarlos\documents\visual studio 2013\Projects\Rookie - Vayne 1v\Rookie - Vayne 1v\bin\Debug\Rookie - Vayne 1v.exe
+c:\users\edcarlos\documents\visual studio 2013\Projects\Rookie - Vayne 1v\Rookie - Vayne 1v\bin\Debug\Rookie - Vayne 1v.pdb
+c:\users\edcarlos\documents\visual studio 2013\Projects\Rookie - Vayne 1v\Rookie - Vayne 1v\bin\Debug\EloBuddy.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Rookie - Vayne 1v\Rookie - Vayne 1v\bin\Debug\EloBuddy.SDK.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Rookie - Vayne 1v\Rookie - Vayne 1v\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Rookie - Vayne 1v\Rookie - Vayne 1v\bin\Debug\SharpDX.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Rookie - Vayne 1v\Rookie - Vayne 1v\bin\Debug\SharpDX.XInput.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Rookie - Vayne 1v\Rookie - Vayne 1v\bin\Debug\EloBuddy.Sandbox.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Rookie - Vayne 1v\Rookie - Vayne 1v\bin\Debug\Newtonsoft.Json.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\Rookie - Vayne 1v\Rookie - Vayne 1v\obj\Debug\Rookie - Vayne 1v.exe
+c:\users\edcarlos\documents\visual studio 2013\Projects\Rookie - Vayne 1v\Rookie - Vayne 1v\obj\Debug\Rookie - Vayne 1v.pdb
